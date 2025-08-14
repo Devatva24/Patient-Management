@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Patient Management System
 
 A production‑ready **Spring Boot REST API** for managing patients, doctors, and appointments. Ships with **PostgreSQL**, **Docker/Docker Compose**, database migrations via **Flyway**, and interactive docs via **Swagger/OpenAPI**. Secure by default (JWT optional), testable, and easy to deploy.
